@@ -1,0 +1,15 @@
+<template>
+  <section
+    class="z-20 h-screen w-screen bg-gray-500 fixed top-0 left-0 opacity-50"
+  >
+    <div class="absolute">
+      <div class="flex h-full">
+        <div class="z-30 m-auto bg-white p-2 rounded shadow w-1/3"></div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script>
+export default {};
+</script>
